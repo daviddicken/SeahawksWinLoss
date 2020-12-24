@@ -1,0 +1,30 @@
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.exe.config
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.exe
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.pdb
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.xml
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.Resources.resources
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.vbproj.GenerateResource.Cache
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.exe
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.xml
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.pdb
+C:\Users\zoom\Documents\Visual Studio 2012\Projects\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.frmHawks.resources
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.exe.config
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.exe
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.xml
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.pdb
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.exe
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.pdb
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.xml
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.frmHawks.resources
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.Resources.resources
+E:\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.vbproj.GenerateResource.Cache
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.exe.config
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.exe
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.xml
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.pdb
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.exe
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.pdb
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\bin\Debug\HawksWinLoss.xml
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.frmHawks.resources
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.Resources.resources
+C:\Users\zoom\Desktop\HawksWinLoss\HawksWinLoss\HawksWinLoss\obj\Debug\HawksWinLoss.vbproj.GenerateResource.Cache
